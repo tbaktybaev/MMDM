@@ -1,2 +1,2 @@
-# MMCD
+# MMDM
 Matematicheskie metody prinyatiya resheniy
